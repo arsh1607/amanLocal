@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_id": "socialmedialogin-1173",
+    "project_number": "169501730637",
+    "name": "socialmedialogin"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169501730637:android:babbc51022ce3a23",
+        "client_id": "android:com.example.mobikasa.socialmediaintegration",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.example.mobikasa.socialmediaintegration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169501730637-rgjcjo2c8kugsaf5c08bandcj6gbvus8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mobikasa.socialmediaintegration",
+            "certificate_hash": "5E84C727F5C50EA0C99FDF978E7E7468E52BBD2B"
+          }
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}

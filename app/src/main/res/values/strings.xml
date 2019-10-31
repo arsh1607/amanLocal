@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SocialMediaIntegration</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!--   <string name="facebook_app_id">567634973390053</string>-->
+    <string name="facebook_app_id">519789774862800</string>
+
+
+    <string name="get_user_info">Get User Information</string>
+    <string name="user_friend_list">Get Facebook Friend</string>
+    <string name="facebook_logout">Facebook Logout</string>
+    <string name="google_plus">Google Plus Login</string>
+    <string name="user_information">User Information</string>
+
+    <string name="facebookdemo">FacebookDemo</string>
+</resources>
